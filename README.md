@@ -1,5 +1,7 @@
 <h2 align="center">Juliano Silva - Software Developer</h2>  
 <p align="center">
   <a href="https://www.linkedin.com/in/julianoacs/"><img src="https://github.com/julianoacs/julianoacs/blob/main/icons/linkedin.png" width="36px"></a>
-  <a href="mailto:julianoacsilva@hotmail.com"><img src="https://github.com/julianoacs/julianoacs/blob/main/icons/eMail.png" width="36px"></a>  
+  <a href="mailto:julianoacsilva@hotmail.com"><img src="https://github.com/julianoacs/julianoacs/blob/main/icons/eMail.png" width="36px"></a>
+  <a href="https://julianoacs.github.io/Portfolio/"><img src="https://github.com/julianoacs/julianoacs/blob/main/icons/logoDev.png" width="36px"></a>
+  
 </p>
